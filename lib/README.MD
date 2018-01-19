@@ -1,1 +1,0 @@
-Takes an image and turns it into an mosaic of squares.
